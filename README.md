@@ -1,5 +1,5 @@
 # Fashion-Class-Classification
-Objective is to build classifier or to build a kind of deep learning network that can classifies the images belongs to target class.
+Objective is to build classifier or to build a kind of deep learning network(Convolution Neural Network)that can classifies the images belongs to target class.
 
 
 # Dataset: Fashion MNIST Dataset
@@ -22,3 +22,24 @@ The 10 classes are as follows:
 * 7 => Sneaker 
 * 8 => Bag 
 * 9 => Ankle boot
+
+
+-> CNN was able to classify 10 target classes with 95% of accuracy.
+
+**(32,3,3) kernel without dropout:
+      * Accuracy: 0.9559
+      * Test accuracy: 0.911
+ 
+ 
+
+**(64,3,3) kernel without dropout:
+      * Accuracy: 0.9634
+      * Test accuracy: 0.916
+      
+      
+ 
+
+**(32,3,3) kernel with dropout:
+      * Accuracy: 0.948
+      * Test accuracy: 0.919    
+      
