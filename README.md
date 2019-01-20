@@ -27,19 +27,19 @@ The 10 classes are as follows:
 -> CNN was able to classify 10 target classes with 95% of accuracy.
 
 **(32,3,3) kernel without dropout:**
-      * Accuracy: 0.9559
-      * Test accuracy: 0.911
+* Accuracy: 0.9559
+* Test accuracy: 0.911
  
  
 
 **(64,3,3) kernel without dropout:**
-      * Accuracy: 0.9634
-      * Test accuracy: 0.916
+* Accuracy: 0.9634
+* Test accuracy: 0.916
       
       
  
 
 **(32,3,3) kernel with dropout:**
-      * Accuracy: 0.948
-      * Test accuracy: 0.919    
+* Accuracy: 0.948
+* Test accuracy: 0.919    
       
