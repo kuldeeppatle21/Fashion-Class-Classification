@@ -1,5 +1,7 @@
 # Fashion-Class-Classification
-Objective is to build classifier or to build a kind of deep learning network that can classifies the images belongs to target class.
+# Objective is to build classifier or to build a kind of deep learning network that can classifies the images belongs to target class.
+# Dataset: Fashion MNIST Dataset
+# Dataset Link:   https://www.kaggle.com/zalando-research/fashionmnist
 
 
 Fashion training set consists of 70,000 images divided into 60,000 training and 10,000 testing samples. Dataset sample consists of 28x28 grayscale image, associated with a label from 10 classes.
